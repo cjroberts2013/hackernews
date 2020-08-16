@@ -18,6 +18,14 @@ const list = [
 		points: 5,
 		objectID: 1,
 	},
+	{
+		title: "Redux",
+		url: "https://github.com/reactjs/redux",
+		author: "Dan Abramov, Andrew Clack",
+		num_comments: 2,
+		points: 5,
+		objectID: 1,
+	},
 ];
 
 class App extends Component {
