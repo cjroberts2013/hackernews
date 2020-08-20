@@ -19,7 +19,7 @@ const list = [
 		objectID: 1,
 	},
 	{
-		title: "Redux",
+		title: "React",
 		url: "https://github.com/reactjs/redux",
 		author: "Dan Abramov, Andrew Clack",
 		num_comments: 2,
